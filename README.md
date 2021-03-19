@@ -9,6 +9,7 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel project (codeGorilla) ...webapp voor het online informeren, reserveren, boeken en betalen voor een verblijf bij  WoTahWi B&B .
+
 
 - [Behance](https://www.behance.net/gallery/114657451/Laravel-project-%28codeGorilla%29).
